@@ -27,7 +27,22 @@ namespace ConsoleApp1
                 Console.WriteLine("肥胖");
             else
                 Console.WriteLine("請檢察輸入數值");
-
+            if (BMI < 16.5)
+                Console.WriteLine("免役");
+            else if (BMI > 31.5)
+                Console.WriteLine("免役");
+            else if (CM <= 157)
+                Console.WriteLine("免役");
+            else if (CM >= 196)
+                Console.WriteLine("免役");
+            else if (17 <= BMI && BMI <= 31)
+                Console.WriteLine("常備役");
+            else if (31 < BMI && BMI <= 31.5)
+                Console.WriteLine("替代役");
+            else if (16.5 <= BMI && BMI < 17)
+                Console.WriteLine("替代役");
+            else
+                Console.WriteLine("請檢察輸入數值");
             Console.Read();
         }
     }
