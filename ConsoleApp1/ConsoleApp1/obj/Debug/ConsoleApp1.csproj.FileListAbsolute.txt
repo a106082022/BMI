@@ -1,0 +1,7 @@
+C:\git\BMI\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\git\BMI\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\git\BMI\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\git\BMI\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\git\BMI\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\git\BMI\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\git\BMI\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
